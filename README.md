@@ -41,7 +41,7 @@ A foundational physics framework deriving quantum evolution from entropic gradie
 A quantitative computational model for temporal optimization of combination immunotherapy: glycocalyx modification, CD28/4-1BB costimulation, and checkpoint inhibition. Predicts optimal dosing and sequencing to achieve 100% target-cell killing in silico.
 
 **Status:** Provisional patent application, 2026
-
+(https://doi.org/10.5281/zenodo.21911438)
 ---
 
 ## Repository structure
