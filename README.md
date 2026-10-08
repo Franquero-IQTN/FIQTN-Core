@@ -1,10 +1,10 @@
 # FIQTN-Core
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6534--8924-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-6534-8924)
+
 **Core computational models, differential equations, and preprints for the Franquero Institute for Quantum-Thermodynamic Neuroscience (IQTN)**
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
-
-Maintained by Keny Wayne Franquero · [ORCID 0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) · [Franquero's Prototyping Laboratories LLC](https://franquerolabs.com) · Contact: [keny@franquerolabs.com](mailto:keny@franquerolabs.com)
+Maintained by Keny Wayne Franquero · [ORCID 0009-0002-6534-8924](https://orcid.org/0009-0002-6534-8924) · [Franquero's Prototyping Laboratories LLC](https://franquerolabs.com) · Contact: [keny@franquerolabs.com](mailto:keny@franquerolabs.com)
 
 ---
 
