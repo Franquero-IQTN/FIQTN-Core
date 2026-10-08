@@ -41,3 +41,98 @@ A quantitative computational model for temporal optimization of combination immu
 ---
 
 ## Repository structure
+
+FIQTN-Core/
+├── fmqc/
+│   ├── fmqc_figures.py         # Simulation + Figure 1–5 generation
+│   ├── requirements.txt        # Python dependencies
+│   └── README.md               # FMQC-specific usage notes
+├── fef/                        # In progress
+├── fdf/                        # In progress
+├── figures/                    # Output directory for generated figures
+├── docs/                       # Preprints and manuscripts
+└── README.md                   # This file
+
+---
+
+## Getting started
+
+### Requirements
+
+- Python 3.9 or later
+- NumPy, SciPy, Matplotlib, NetworkX
+
+### Install
+
+```bash
+git clone https://github.com/Franquero-IQTN/FIQTN-Core.git
+cd FIQTN-Core
+pip install -r fmqc/requirements.txt
+ 
+Run the FMQC simulation
+cd fmqc
+python fmqc_figures.py
+ 
+Outputs five PNG and PDF figures to figures/. Runtime is approximately 3–5 minutes on a standard laptop. 
+ 
+Code principles
+• Reproducibility: Deterministic seeds; every run produces identical figures.
+• Transparency: All parameters declared in a single dataclass for easy review.
+• Modularity: Each figure in its own function; modify one without touching the others.
+• Explicit caveats: Models are simplified by design; limitations are documented in the manuscript. 
+ 
+Citation
+ 
+If you use this code or the FMQC framework in your work, please cite:
+@misc{franquero_fmqc_2026,
+  author       = {Franquero, Keny Wayne},
+  title        = {The Franquero Model of Quantum-Thermodynamic Consciousness
+                  (FMQC), Version 1.1},
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.23244798},
+  url          = {https://doi.org/10.5281/zenodo.23244798}
+}
+ 
+For the entropy framework:
+@misc{franquero_fef_2026,
+  author       = {Franquero, Keny Wayne},
+  title        = {The Franquero Entropy Framework (FEF): Derivation via
+                  Variational Principle and Entropic Gradient Flow},
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21910477},
+  url          = {https://doi.org/10.5281/zenodo.21910477}
+}
+ 
+For the dynamics framework:
+@misc{franquero_fdf_2026,
+  author       = {Franquero, Keny Wayne},
+  title        = {The Franquero Dynamics Framework (FDF): A Quantitative Model
+                  for Temporal Optimization of Glycocalyx Modification,
+                  Costimulation, and Checkpoint Inhibition in Immunotherapy},
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21911438},
+  url          = {https://doi.org/10.5281/zenodo.21911438}
+}
+ 
+ 
+License
+• Documentation and preprints: Creative Commons Attribution 4.0 International (CC BY 4.0)
+• Code: MIT License 
+See LICENSE for details. 
+ 
+Contributing and collaboration
+ 
+This is currently a single-investigator research repository. Collaboration inquiries, replication attempts, and critical feedback are welcome — please open an issue or email keny@franquerolabs.com.
+ 
+The frameworks are hypothesis-generating, not empirically validated. Contributions that rigorously test, falsify, or refine the predictions are especially encouraged. 
+ 
+Contact
+ 
+Keny Wayne Franquero
+Founder, Franquero's Prototyping Laboratories LLC
+keny@franquerolabs.com
+ORCID: 0009-0002-6534-8924
+Franquero-IQTN · Cottonwood, Arizona, USA
