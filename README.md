@@ -1,6 +1,6 @@
 # Franquero Institute for Quantum-Thermodynamic Neuroscience (FIQTN)
 
-Welcome to the official open repository of the **Franquero Institute for Quantum-Thermodynamic Neuroscience (FIQTN)**[span_6](start_span)[span_6](end_span). This repository houses the computational models, differential equations, documentation, and preprint resources associated with our core research frameworks.
+Welcome to the official open repository of the **Franquero Institute for Quantum-Thermodynamic Neuroscience (FIQTN)**. This repository houses the computational models, differential equations, documentation, and preprint resources associated with our core research frameworks.
 
 ---
 
@@ -25,7 +25,7 @@ All formal preprints, manuscripts, and provisional patent documentation are arch
 ---
 
 ## Intellectual Property & Institutional Structure
-Research and technological developments are coordinated under the Franquero IQTN research hub, with hardware and systems architectures held via **Franquero's Prototyping Laboratories LLC**[span_7](start_span)[span_7](end_span).
+Research and technological developments are coordinated under the Franquero IQTN research hub, with hardware and systems architectures held via **Franquero's Prototyping Laboratories LLC**
 
 ## License & Usage
 This repository is made available for academic, research, and collaborative purposes. Please reference specific preprints and DOIs when citing this work.
