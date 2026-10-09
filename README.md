@@ -32,7 +32,7 @@ A foundational physics framework deriving quantum evolution from entropic gradie
 
 **Status:** Preprint, v1.0 · [Zenodo DOI](https://doi.org/10.5281/zenodo.21910477)
 
-### FDF — Franquero Dynamics Framework
+### FDF Updated v1.0 Franquero Dynamics Framework
 
 A quantitative computational model for temporal optimization of combination immunotherapy: glycocalyx modification, CD28/4-1BB costimulation, and checkpoint inhibition. Predicts optimal dosing and sequencing to achieve 100% target cell killing in silico.
 
