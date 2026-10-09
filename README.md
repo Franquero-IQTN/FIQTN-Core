@@ -38,6 +38,13 @@ A quantitative computational model for temporal optimization of combination immu
 
 **Status:** Provisional patent application, 2026 · [Zenodo DOI](https://doi.org/10.5281/zenodo.21911438)
 
+### FDF v2.1 — Franquero Dynamics Framework v2.1
+
+A quantitative computational model for temporal optimization of combination immunotherapy: glycocalyx modification, CD28/4-1BB costimulation, and checkpoint inhibition. Predicts optimal dosing and sequencing to achieve target cell dynamics in silico.
+
+**Status:** Provisional patent application, 2026 · [Zenodo DOI](https://zenodo.org/records/23252521)
+
+
 ---
 
 ## Repository structure
